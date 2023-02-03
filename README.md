@@ -25,6 +25,14 @@ Drag and drop is typical mobile application interaction. As the user long presse
 
 8) Change space in Dragabble listview
 
+# PRO'S
+
+1) When dragging an item to the top/ bottom the list scroll accordingly
+
+2) Works with different sized items
+
+3) material like behaviour
+
 
 
 ![preview--3--1](https://user-images.githubusercontent.com/93249038/216503448-ae1b91c3-b8ad-4f18-b9d1-2095b562a74d.gif)

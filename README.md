@@ -59,6 +59,9 @@ In your pubspec.yaml  Add
 
 ![preview--3--1](https://user-images.githubusercontent.com/93249038/216503448-ae1b91c3-b8ad-4f18-b9d1-2095b562a74d.gif)
 
+Credits to the Author. Good work and Peak learning for flutter beginners
 
 # References
-https://docs.flutter.dev/get-started/codelab
+1) https://docs.flutter.dev/get-started/codelab
+
+2) https://flutterawesome.com/use-flutter-to-drag-and-drop-items-within-the-listview/

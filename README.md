@@ -35,4 +35,12 @@ Drag and drop is typical mobile application interaction. As the user long presse
 
 
 
+# dependencies:
+
+In your pubspec.yaml  Add
+
+  flutter_list_drag_and_drop: "^0.1.3"
+
+
+
 ![preview--3--1](https://user-images.githubusercontent.com/93249038/216503448-ae1b91c3-b8ad-4f18-b9d1-2095b562a74d.gif)
